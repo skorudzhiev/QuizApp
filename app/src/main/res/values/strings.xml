@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="instructions">Answer these general questions below and press the
+        Submit button once you are ready to see your results!</string>
+
+    <string name="question1">1. How many stars has the American flag got?</string>
+    <string name="answer1a">50</string>
+    <string name="answer1b">48</string>
+    <string name="answer1c">52</string>
+    <string name="answer1d">51</string>
+
+    <string name="question2">2. What is the largest number of five digits?</string>
+    <string name="answer2">99999</string>
+
+    <string name="question3">3. What colour do you get when you mix red and white?</string>
+    <string name="answer3a">purple</string>
+    <string name="answer3b">red</string>
+    <string name="answer3c">pink</string>
+    <string name="answer3d">orange</string>
+
+    <string name="question4">4. Anemophobia is the fear of what?</string>
+    <string name="answer4a">spiders</string>
+    <string name="answer4b">wind</string>
+    <string name="answer4c">the dark</string>
+    <string name="answer4d">fire</string>
+
+    <string name="question5">5. How long is the Great Wall of China?</string>
+    <string name="answer5a">13,170 mi</string>
+    <string name="answer5ab">21,196 km</string>
+    <string name="answer5b">5,500 mi</string>
+    <string name="answer5bb">8,851 km</string>
+    <string name="answer5c">11,170 mi</string>
+    <string name="answer5cb">17,976 km</string>
+
+    <string name="question6">6. What is the most famous university of Paris?</string>
+    <string name="answer6a">ParisTech</string>
+    <string name="answer6b">Descartes</string>
+    <string name="answer6c">Dauphine</string>
+    <string name="answer6d">Sorbonne</string>
+
+    <string name="question7">7. Which South American country is named after Venice?</string>
+    <string name="answer7">Venezuela</string>
+
+    <string name="question8">8. What is both a French wine region and a luxury American automobile?</string>
+    <string name="answer8a">Lincoln</string>
+    <string name="answer8b">Buick</string>
+    <string name="answer8c">Cadillac</string>
+    <string name="answer8d">Chrysler</string>
+
+    <string name="question9">9. In which European city can you find the home of Anne Frank?</string>
+    <string name="answer9">Amsterdam</string>
+
+    <string name="question10">10. Which of the following integers are multiples of both 2 and 3?</string>
+    <string name="answer10a">8</string>
+    <string name="answer10b">9</string>
+    <string name="answer10c">12</string>
+    <string name="answer10d">18</string>
+    <string name="answer10e">21</string>
+    <string name="answer10f">36</string>
+    <string name="answer10g">35</string>
+    <string name="answer10h">26</string>
+    <string name="answer10i">24</string>
+    <string name="answer10j">54</string>
+    <string name="answer10k">22</string>
+    <string name="answer10l">38</string>
+
+    <string name="instructionsCheck">HINT: The right answer of this question could be more than one!</string>
+</resources>
