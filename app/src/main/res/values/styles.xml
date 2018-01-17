@@ -10,27 +10,27 @@
 
     <!-- TextViews Style. -->
     <style name="InitialString">
-        <item name="android:textSize">13dp</item>
+        <item name="android:textSize">13sp</item>
         <item name="android:textStyle">italic|bold</item>
         <item name="android:textColor">@color/secondary_text</item>
     </style>
 
     <!-- TextViews Questions Style. -->
     <style name="PrimaryTextStyle">
-        <item name="android:textSize">16dp</item>
+        <item name="android:textSize">16sp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/primary_text</item>
     </style>
 
     <!-- TextViews Answer Fields Style. -->
     <style name="SecondaryTextStyle">
-        <item name="android:textSize">16dp</item>
+        <item name="android:textSize">16sp</item>
         <item name="android:textColor">@color/secondary_text</item>
     </style>
 
     <!-- TextViews Hint Fields Style. -->
     <style name="HintTextStyle">
-        <item name="android:textSize">12dp</item>
+        <item name="android:textSize">12sp</item>
         <item name="android:textStyle">italic</item>
         <item name="android:textColor">@color/secondary_text</item>
     </style>

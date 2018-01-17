@@ -1,0 +1,134 @@
+ { "general":{
+    "radioButton": [
+    {
+      "question": "Linear Motion",
+      "answer": "qp1"
+    },
+    {
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"
+    },
+    {
+      "question": "Projectile Motion",
+      "answer": "qp3"
+    }
+  ],
+	"checkBox": [
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	},
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	},
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	}
+  ],
+    "editText": [
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	},
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	},
+	{
+      "question": "Constant Acceleration Motion",
+      "answer": "qp2"	
+	}
+  ]
+},
+   "geography":{
+       "radioButton": [
+       {
+         "question": "Linear Motion",
+         "answer": "qp1"
+       },
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       },
+       {
+         "question": "Projectile Motion",
+         "answer": "qp3"
+       }
+     ],
+       "checkBox": [
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       },
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       },
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       }
+     ],
+       "editText": [
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       },
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       },
+       {
+         "question": "Constant Acceleration Motion",
+         "answer": "qp2"
+       }
+     ]
+   },
+   "history":{
+      "radioButton": [
+      {
+        "question": "Linear Motion",
+        "answer": "qp1"
+      },
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      },
+      {
+        "question": "Projectile Motion",
+        "answer": "qp3"
+      }
+    ],
+      "checkBox": [
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      },
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      },
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      }
+    ],
+      "editText": [
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      },
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      },
+      {
+        "question": "Constant Acceleration Motion",
+        "answer": "qp2"
+      }
+    ]
+  }
+
+}
